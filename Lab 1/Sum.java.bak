@@ -1,0 +1,32 @@
+class CalculatorSum 
+{
+  
+     int n=60;
+
+          for (int i=1;i<=n;i++)
+           {
+            
+             int sum;
+          
+              sum=i+n;
+              
+               return sum ;
+           }
+  
+   
+  
+}
+class CalSum {
+ 
+ public static void main(String[]args)
+  {
+   
+    CalculatorSum sc= new CalculatorSum();
+ 
+    // int sum= sc.Sum(60);
+
+     System.out.println("sum:"+sum);
+}
+}
+   
+    
